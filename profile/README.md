@@ -16,4 +16,4 @@ Current Status
 
 We just finished building out the parser for the Veneto Language, and we're now moving on to implementing the Language Server and the Test Client.  
 
-If you're interested in contributing, reach out to [mailto:jake@jakeconley.com](jake@jakeconley.com)!
+If you're interested in contributing, reach out to [jake@jakeconley.com](mailto:jake@jakeconley.com)!
